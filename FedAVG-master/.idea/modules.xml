@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FedAVG-master.iml" filepath="$PROJECT_DIR$/.idea/FedAVG-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch-deep-generative-replay-master/.idea/pytorch-deep-generative-replay-master.iml" filepath="$PROJECT_DIR$/../pytorch-deep-generative-replay-master/.idea/pytorch-deep-generative-replay-master.iml" />
+    </modules>
+  </component>
+</project>
